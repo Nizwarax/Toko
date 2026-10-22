@@ -1,0 +1,133 @@
+{
+  "createdAt": 1787671299453,
+  "users": {
+    "5259873508": {
+      "id": "5259873508",
+      "username": "lowhbabuw",
+      "firstName": "ʳᵛˣ𝐇☩𝐍𝐙",
+      "role": "owner",
+      "dailyCount": 1,
+      "dailyDate": "2026-08-25",
+      "pendingCreate": null
+    },
+    "8923997931": {
+      "id": "8923997931",
+      "username": "Lowhbabuw1",
+      "firstName": "⚚𝐇☩𝐍𝐙 #𝟕𝟔 ん",
+      "role": "user",
+      "dailyCount": 0,
+      "dailyDate": "2026-08-25"
+    },
+    "8968477008": {
+      "id": "8968477008",
+      "username": "BalzzInfoster",
+      "firstName": "𝐁𝐚𝐥𝐳𝐳 𝐗-𝐈𝐍𝐅𝐎𝐒𝐓𝐄𝐑👣 𝐓𝟓",
+      "role": "user",
+      "dailyCount": 0,
+      "dailyDate": "2026-08-25"
+    }
+  },
+  "groups": {},
+  "stock": [
+    {
+      "id": "a7eba858",
+      "keyHash": "e6a1acbcb7b98d56616e2ae58a6ab7e56e2718007c5a0e253700af0958319dd9",
+      "used": 1,
+      "addedAt": 1787671438727,
+      "busy": false
+    },
+    {
+      "id": "5ed2542e",
+      "keyHash": "827a61077dda9db9b725f538549ad0d4246141bfb1f4517791700b67e1c04cc5",
+      "used": 0,
+      "addedAt": 1787671438727
+    },
+    {
+      "id": "cf5b980bfc",
+      "token": "a73d94bb-9466-4a1b-a8fc-55d3f1c28921",
+      "used": 0,
+      "busy": false,
+      "addedAt": 1787671817932
+    },
+    {
+      "id": "bcee613d02",
+      "token": "5c50b7b6-4e66-4562-89b1-9f6396baf9e3",
+      "used": 0,
+      "busy": false,
+      "addedAt": 1787671817932
+    }
+  ],
+  "vps": [
+    {
+      "id": "EB6FA393",
+      "userId": "5259873508",
+      "username": "@lowhbabuw",
+      "createdAt": 1787671466995,
+      "status": "request_created"
+    },
+    {
+      "id": "9F870C63",
+      "userId": "5259873508",
+      "username": "@lowhbabuw",
+      "status": "failed",
+      "createdAt": 1787671799435,
+      "error": "API key stock tidak tersedia di memory."
+    },
+    {
+      "id": "E3F39F8D",
+      "userId": "5259873508",
+      "username": "@lowhbabuw",
+      "status": "failed",
+      "createdAt": 1787671847223,
+      "error": "API key stock tidak tersedia di memory."
+    },
+    {
+      "id": "B9E4C9B9",
+      "userId": "5259873508",
+      "username": "@lowhbabuw",
+      "status": "failed",
+      "createdAt": 1787671862649,
+      "error": "API key stock tidak tersedia di memory."
+    },
+    {
+      "id": "5F37FEDE",
+      "userId": "5259873508",
+      "username": "@lowhbabuw",
+      "status": "failed",
+      "createdAt": 1787671888773,
+      "error": "API key stock tidak tersedia di memory."
+    },
+    {
+      "id": "CF4F4A01",
+      "userId": "5259873508",
+      "username": "@lowhbabuw",
+      "status": "failed",
+      "createdAt": 1787671899075,
+      "error": "API key stock tidak tersedia di memory."
+    },
+    {
+      "id": "1FCF367B",
+      "userId": "5259873508",
+      "username": "@lowhbabuw",
+      "status": "failed",
+      "createdAt": 1787671907447,
+      "error": "API key stock tidak tersedia di memory."
+    },
+    {
+      "id": "80A85A51",
+      "userId": "5259873508",
+      "username": "@lowhbabuw",
+      "status": "failed",
+      "createdAt": 1787671916061,
+      "error": "API key stock tidak tersedia di memory."
+    },
+    {
+      "id": "D7F74967",
+      "userId": "5259873508",
+      "username": "@lowhbabuw",
+      "status": "failed",
+      "createdAt": 1787671929105,
+      "error": "API key stock tidak tersedia di memory."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "stock": [
+    {
+      "id": "cvps_1788528054395_2ps6ic",
+      "host": "66.33.22.245",
+      "port": 40974,
+      "password": "hanzid2xs5",
+      "username": "root",
+      "status": "available",
+      "addedAt": "2026-09-04T13:20:54.395Z",
+      "lastCheck": "2026-09-04T13:20:54.406Z",
+      "isAlive": true
+    },
+    {
+      "id": "cvps_1788528054395_pr9j7r",
+      "host": "66.33.22.229",
+      "port": 15577,
+      "password": "hanzid3hq5",
+      "username": "root",
+      "status": "available",
+      "addedAt": "2026-09-04T13:20:54.395Z",
+      "lastCheck": "2026-09-04T13:20:56.151Z",
+      "isAlive": true
+    },
+    {
+      "id": "cvps_1788528054395_mrqsg4",
+      "host": "66.33.22.222",
+      "port": 39258,
+      "password": "hanzid43p4",
+      "username": "root",
+      "status": "available",
+      "addedAt": "2026-09-04T13:20:54.395Z",
+      "lastCheck": "2026-09-04T13:20:58.090Z",
+      "isAlive": true
+    }
+  ],
+  "sold": [],
+  "settings": {
+    "harga": 500,
+    "garansi": {
+      "low": 1,
+      "standard": 3,
+      "high": 7
+    },
+    "replace": {
+      "low": 1,
+      "standard": 2,
+      "high": 3
+    },
+    "specs": {
+      "ram": "1 GB",
+      "vcpu": "2 vCPU",
+      "storage": "Shared / Ephemeral",
+      "os": "Ubuntu 22.04 / 24.04 (SSH)"
+    }
+  },
+  "purged": []
+}

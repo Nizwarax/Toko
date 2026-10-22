@@ -1,0 +1,14 @@
+{
+  "paymentMethod": "manual",
+  "scripts": [
+    {
+      "nama": "Sc_order_rexy",
+      "harga": 4000,
+      "deskripsi": "sc bot order untuk bisnis",
+      "file_id": "BQACAgUAAxkBAAMYaoyE5r9INumLz3lxLFfD6OTAyY4AArYeAAJnFtlVBXByr3FeJjM9BA",
+      "fileName": "𝗥𝗘𝗫𝗬_𝗔𝗨𝗧𝗢_𝗢𝗥𝗗𝗘𝗥.zip"
+    }
+  ],
+  "isPanelLegalOpen": false,
+  "isPanelOpen": false
+}
